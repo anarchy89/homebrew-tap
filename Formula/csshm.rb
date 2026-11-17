@@ -1,8 +1,8 @@
 class Csshm < Formula
   desc "Cluster SSH for macOS Terminal: type once into many SSH sessions"
   homepage "https://github.com/anarchy89/csshm"
-  url "https://github.com/anarchy89/csshm/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "ccdcdbbed6eaca0eccd5609ccef94abf51b932b81171387dc5ed6c42ad19d630"
+  url "https://github.com/anarchy89/csshm/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "9858f728b5fed48aeca88a00e7563fc96a6588156d2fc5b55eb23cc2bbd88aad"
   license "GPL-3.0-or-later"
   head "https://github.com/anarchy89/csshm.git", branch: "main"
 
